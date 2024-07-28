@@ -50,7 +50,7 @@ Implemented reinforcement learning algorithms to create intelligent agents capab
 
 I'm always excited to connect with fellow enthusiasts, collaborators, and professionals in the AI & ML community. Feel free to reach out to me through the following channels:
 
--**[LinkedIn](https://www.linkedin.com/in/bishal-goutam-9139451a/)**
+- **[LinkedIn](https://www.linkedin.com/in/bishal-goutam-9139451a/)**
 
 Let's push the boundaries of what's possible with AI and ML together!
 
