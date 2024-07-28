@@ -32,7 +32,7 @@ I'm Bishal Goutam, a passionate technologist with multiple advanced degrees in I
 
 ### Projects
 
-Here are some highlights from my portfolio:
+<!--Here are some highlights from my portfolio:
 
 #### [Project 1: Predictive Analytics with Machine Learning](#)
 A comprehensive project where I developed and deployed predictive models to forecast key business metrics using various machine learning techniques.
@@ -44,13 +44,13 @@ An NLP project that involved sentiment analysis, text classification, and entity
 Developed a computer vision system to accurately classify and detect objects within images, using convolutional neural networks (CNNs).
 
 #### [Project 4: Reinforcement Learning for Game AI](#)
-Implemented reinforcement learning algorithms to create intelligent agents capable of playing and learning from games.
+Implemented reinforcement learning algorithms to create intelligent agents capable of playing and learning from games.-->
 
 ### Get in Touch
 
 I'm always excited to connect with fellow enthusiasts, collaborators, and professionals in the AI & ML community. Feel free to reach out to me through the following channels:
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
+-**[LinkedIn](https://www.linkedin.com/in/bishal-goutam-9139451a/)**
 
 Let's push the boundaries of what's possible with AI and ML together!
 
